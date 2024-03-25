@@ -1,4 +1,4 @@
-# syopwatch
+# Stopwatch
 
 A new Flutter project.
 
